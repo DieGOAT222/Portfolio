@@ -99,6 +99,12 @@ textarea:invalid {
   outline-color: var(--invalid);
 }
 
+.projects__image {
+  width: 100%;
+  height: 253px;
+  object-fit: cover;
+}
+
 a.underline,
 button {
   display: inline-block;
